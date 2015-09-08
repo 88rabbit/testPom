@@ -1,5 +1,6 @@
 sudo:false
-anguage: java
+
+language: java
 jdk:
    - openjdk7
    - openjdk6
