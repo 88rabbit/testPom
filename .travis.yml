@@ -1,4 +1,5 @@
-language: java
+sudo:false
+anguage: java
 jdk:
    - openjdk7
    - openjdk6
